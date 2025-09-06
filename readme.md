@@ -1,5 +1,3 @@
-// write readme.md code for this project
-
 # 🛍️ Myntra Clone (Frontend)
 
 A simple **Myntra Clone Frontend Project** built using **HTML, CSS, and JavaScript**.  
